@@ -653,7 +653,7 @@ Software...
 
 ### Connect With Me
 
-- GitHub: [@dharun]([https://github.com/yourusername](https://github.com/mdharunmdharun175-tech))
+- GitHub: [@dharun]([https://github.com/mdharunmdharun175-tech])
 - Twitter: [@dharun_dev](https://twitter.com)
 - LinkedIn: [dharun-kumar](https://linkedin.com)
 - Portfolio: [dharunkumar.dev](https://yoursite.com)
