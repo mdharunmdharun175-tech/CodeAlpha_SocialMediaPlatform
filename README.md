@@ -675,7 +675,7 @@ Have questions or suggestions?
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/NEXUS/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/NEXUS/discussions)
-- **Email**: contact@dharunkumar.dev
+- **Email**: contact@mdharunmdharun175@gmail.com
 - **Discord**: [Join Server](https://discord.gg/nexus)
 
 ---
