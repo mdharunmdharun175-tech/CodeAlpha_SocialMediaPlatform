@@ -645,7 +645,7 @@ Software...
 
 ## 👨‍💻 Author
 
-**Dharun Kumar** [@dharun](https://github.com/yourusername)
+**Dharun Kumar M** [@dharun](https://github.com/dharu_kumar)
 
 - 🚀 Full-Stack Developer
 - 💡 Web Technology Enthusiast
@@ -654,8 +654,8 @@ Software...
 ### Connect With Me
 
 - GitHub: [@dharun]([https://github.com/mdharunmdharun175-tech])
-- Twitter: [@dharun_dev](https://twitter.com)
-- LinkedIn: [dharun-kumar](https://linkedin.com)
+- Twitter: [@dharun46](https://x.com/Dharun_046)
+- LinkedIn: [dharun-kumar](www.linkedin.com/in/dharun-kumar-m-691a04351)
 - Portfolio: [dharunkumar.dev](https://yoursite.com)
 
 ---
@@ -675,7 +675,7 @@ Have questions or suggestions?
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/NEXUS/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/NEXUS/discussions)
-- **Email**: contact@mdharunmdharun175@gmail.com
+- **Email**: contact@mdharunmdharun175@gmail.com/Dharun-9342659272
 - **Discord**: [Join Server](https://discord.gg/nexus)
 
 ---
